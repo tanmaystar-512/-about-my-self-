@@ -47,6 +47,30 @@ Welcome to my GitHub profile! I'm an aspiring **Frontend Developer** with a pass
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tanmaystar-512&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaystar-512&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaystar-512&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tanmaystar-512&theme=radical" alt="Contribution Graph" />
+</p>
+
+---
+
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -65,22 +89,6 @@ Welcome to my GitHub profile! I'm an aspiring **Frontend Developer** with a pass
   <a href="mailto:vimalbaheti1973@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanmaystar-512&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmaystar-512&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaystar-512&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
